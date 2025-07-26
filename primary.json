@@ -1,0 +1,26 @@
+{
+  "id": "primary1",
+  "segments": [
+    {
+      "coords": [
+        0,
+        0
+      ],
+      "time": 0
+    },
+    {
+      "coords": [
+        5,
+        5
+      ],
+      "time": 5
+    },
+    {
+      "coords": [
+        10,
+        10
+      ],
+      "time": 10
+    }
+  ]
+}
